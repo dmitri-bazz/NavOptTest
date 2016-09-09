@@ -1,0 +1,12 @@
+{
+  "name": "NavOpt-Test",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "dependencies": {
+    "jasmine": "*",
+    "jasmine-node": "*",
+    "frisby": "git://github.com/vlucas/frisby.git#v2"
+  }
+}
